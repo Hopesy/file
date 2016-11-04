@@ -1,0 +1,3 @@
+http://localhost:8888/survey/index.php/Home/Index/index
+http://localhost:8888/survey/index.php/Admin/Index/index
+http://survey.ngrok.cc/survey/index.php/Home/Index/index
